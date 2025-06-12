@@ -24,7 +24,8 @@ dist-ssr
 *.sw?
 
 # Local environment variables
-.env
+#.env
+#.vite.config.ts
 
 # Local HTTPS certificates (mkcert)
 cert/
